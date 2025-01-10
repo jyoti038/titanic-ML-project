@@ -1,0 +1,14 @@
+{
+    "diffEditor.experimental.showMoves": true,
+    "workbench.editor.enablePreview": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "redhat.telemetry.enabled": true,
+    "git.autofetch": true,
+    "workbench.editorAssociations": {
+        "*.jpeg": "imagePreview.previewEditor"
+    },
+    "php.validate.executablePath": "",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorCustomizations": {}
+}
